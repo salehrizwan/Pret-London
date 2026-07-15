@@ -1,0 +1,6 @@
+{
+  "name": "PRET Studio London",
+  "description": "Premium luxury handmade women's designer clothing brand specializing in custom-made and pre-order outfits with localized shopping experiences for Pakistan, UAE, USA, and UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
