@@ -36,7 +36,7 @@ const REGIONAL_HERO_CONFIG: Record<RegionCode, { image: string; title: string; s
     image: "/pakistan_badshahi_girl.jpg",
     title: "Handmade",
     subtitle: "Counter and Luxury Pre-order",
-    label: "Multan Atelier • Pure Hand Embroidery"
+    label: "Pret Atelier • Pure Hand Embroidery"
   },
   AE: {
     image: "/dubai.jpg",
